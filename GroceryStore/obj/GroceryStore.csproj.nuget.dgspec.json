@@ -1,0 +1,64 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/danielwhiteman/Documents/Code/C#/GroceryStore/GroceryStore/GroceryStore.csproj": {}
+  },
+  "projects": {
+    "/Users/danielwhiteman/Documents/Code/C#/GroceryStore/GroceryStore/GroceryStore.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/danielwhiteman/Documents/Code/C#/GroceryStore/GroceryStore/GroceryStore.csproj",
+        "projectName": "GroceryStore",
+        "projectPath": "/Users/danielwhiteman/Documents/Code/C#/GroceryStore/GroceryStore/GroceryStore.csproj",
+        "packagesPath": "/Users/danielwhiteman/.nuget/packages/",
+        "outputPath": "/Users/danielwhiteman/Documents/Code/C#/GroceryStore/GroceryStore/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/danielwhiteman/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/Users/danielwhiteman/.dotnet/sdk/8.0.203/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
